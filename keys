@@ -1,0 +1,5 @@
+Consumer_Key=BglncwdzHkfGKCiPOjSR
+Consumer_Secret=IMATzZeYmGTIibxlgOyKDNpYjurLHUfq
+Request_Token_URL=https://api.discogs.com/oauth/request_token
+Authorize_URL=https://www.discogs.com/oauth/authorize
+Access_Token_URL=https://api.discogs.com/oauth/access_token
